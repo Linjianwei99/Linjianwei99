@@ -3,7 +3,7 @@
 [![Linjianwei's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linjianwei99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Linjianwei's github stats](https://github-readme-stats.vercel.app/api?username=Linjianwei99&show_icons=true&langs_count=8&layout=compact)
-
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sovlookup&theme=dark&show_icons=true">
 
 - 🚀 I use:
 - ![Vue](https://img.shields.io/badge/-Vue-green?style=plastic&logo=Vue)
