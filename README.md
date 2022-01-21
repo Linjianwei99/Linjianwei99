@@ -4,6 +4,14 @@
 
 ![Linjianwei's github stats](https://github-readme-stats.vercel.app/api?username=Linjianwei99&show_icons=true&langs_count=8&layout=compact)
 
+
+- 🚀 I use:
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Vue](https://img.shields.io/badge/-Vue-black?style=plastic&logo=Vue)
+  
+  
+  
 <!--
 **Linjianwei99/Linjianwei99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
