@@ -6,9 +6,9 @@
 
 
 - 🚀 I use:
+- ![Vue](https://img.shields.io/badge/-Vue-green?style=plastic&logo=Vue)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Vue](https://img.shields.io/badge/-Vue-black?style=plastic&logo=Vue)
   
   
   
