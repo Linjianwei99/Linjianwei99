@@ -1,6 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-![](https://komarev.com/ghpvc/?username=Linjianwei99&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Evio's github stats](https://github-readme-stats.vercel.app/api?username=cevio&show_icons=true&langs_count=8&layout=compact)
 
 <!--
 **Linjianwei99/Linjianwei99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
