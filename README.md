@@ -1,5 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![Linjianwei's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linjianwei99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Linjianwei's github stats](https://github-readme-stats.vercel.app/api?username=Linjianwei99&show_icons=true&langs_count=8&layout=compact)
 
 <!--
