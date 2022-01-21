@@ -14,6 +14,7 @@
 --
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Linjianwei99&show_icons=true">
+  
 - 🚀 I use:
 - ![Vue](https://img.shields.io/badge/-Vue-green?style=plastic&logo=Vue)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=typescript)
@@ -21,7 +22,7 @@
  
 --
   
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linjianwei99&layout=compact&show_icons=true">
+<!--   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linjianwei99&layout=compact&show_icons=true"> -->
 
   
   
