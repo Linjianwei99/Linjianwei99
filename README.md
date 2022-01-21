@@ -5,14 +5,14 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linjianwei99&layout=compact&show_icons=true">
 
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Linjianwei99&show_icons=true">
+
 
 - 🚀 I use:
 - ![Vue](https://img.shields.io/badge/-Vue-green?style=plastic&logo=Vue)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   
-  
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Linjianwei99&show_icons=true">
   
 <!--
 **Linjianwei99/Linjianwei99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
