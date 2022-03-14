@@ -10,11 +10,12 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
  
- ---
+---
  
 #### Thank you for the visit.
 <img align="left" src="http://profile-counter.glitch.me/Linjianwei99/count.svg" />
 
+---
 
 -
 -
