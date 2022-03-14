@@ -12,7 +12,8 @@
  
  ---
  
-
+#### Thank you for the visit.
+<img align="left" src="http://profile-counter.glitch.me/loyio/count.svg" />
 
 - 
 - 
