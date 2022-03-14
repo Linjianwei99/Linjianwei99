@@ -15,8 +15,6 @@
 #### Thank you for the visit.
 <img align="left" src="http://profile-counter.glitch.me/loyio/count.svg" />
 
-- 
-- 
   
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Linjianwei99&show_icons=true">
 
